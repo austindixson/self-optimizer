@@ -14,7 +14,7 @@ Analyzes OpenClaw logs, chat history, and the `.openclaw` local root installatio
 ```bash
 clawhub install self-optimizer
 # or:
-git clone https://github.com/RuneweaverStudios/self-optimizer.git
+git clone https://github.com/austindixson/self-optimizer.git
 cp -r self-optimizer ~/.openclaw/workspace/skills/
 ```
 
